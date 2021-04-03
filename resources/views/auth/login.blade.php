@@ -7,7 +7,7 @@
  <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Money Pro Management</title>
+    <title>FRUGALIT</title>
 
 	  <!-- Bootstrap core CSS     -->
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet" />

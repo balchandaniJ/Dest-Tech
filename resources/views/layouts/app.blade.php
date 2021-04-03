@@ -495,7 +495,7 @@
     <div class="container-fluid">
         
         <div class="copyright pull-right">
-            © 2017, made with <i class="fa fa-heart heart"></i> by <span class="company"></span></a>
+            © 2021 <span class="company"></span></a>
         </div>
     </div>
 </footer>
